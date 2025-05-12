@@ -115,7 +115,7 @@ in root directory `cscie33a_final`
 ### Requirement: OpenAI API Key
 An OpenAI API Key is required for the app to function. A key can be created at [platform.openai.com](https://platform.openai.com/docs/overview). There is no cost for creating a key, but a login is required. 
 
-You may need to input payment information in order to use your API key (if you have already completed a free trial period). The cost to run a transcription in the app is typically less than 1 cent. Email jrmatt@media.mit.edu if you cannot generate a key and I can provide a key to run the project.
+You may need to input payment information in order to use your API key (if you have already completed a free trial period). The cost to run a transcription in the app is typically less than 1 cent. 
 #### Configuring your OpenAI API Key
 Run the following commands in your terminal, starting from the project's root directory `cscie33a_final`:
 
