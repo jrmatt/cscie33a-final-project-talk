@@ -1,6 +1,6 @@
 # t@lk
 
-t@lk is an app for collecting audio responses to a prompt, transcribing and displaying them. The main page displays the current prompt, and allows the user to record a response. The collection pages display all responses to a given prompt. t@lk is a React Typescript/Django hybrid application, where the React app is served in the Django index.html template. Webpack is used to compile the React code, and leverages Babel. The frontend uses MUI components and styling.
+t@lk is an app for collecting audio responses to a prompt, transcribing and displaying them. The main page displays the current prompt, and allows the user to record a response. The collection pages display all responses to a given prompt. t@lk is a React Typescript/Django hybrid application, where the React app is served in the Django index.html template. Webpack is used to compile the React code, and leverages Babel. The frontend uses MUI components and styling. This app was built as a final project for CSCI E-33a at Harvard Extension.
 
 [See presentation & video walkthrough here](https://www.youtube.com/watch?v=NxDCjpmeqFA)
 [Slides available here](https://docs.google.com/presentation/d/1pLwuQI-4wEVs67DhHKX_ZZu39XnynIf6LNowSNA-sr0/edit?usp=sharing)
