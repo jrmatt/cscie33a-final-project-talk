@@ -1,0 +1,17 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <title>t@lk</title>
+        <link href='https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap' rel='stylesheet'>
+        <link rel='stylesheet' href="{% static 'prompt_app/styles.css' %}">
+    </head>
+    <body>
+        <div class='nav'>
+            <a href="{% url 'index' %}"><h1 class='logo'>t@lk</h1></a>
+        </div>
+        {% block body %}
+        {% endblock %}
+    </body>
+
+</html>
