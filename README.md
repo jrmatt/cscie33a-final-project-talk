@@ -98,7 +98,7 @@ The user can access the admin tool at the /admin route.
 
 1. Clone the repository and install dependencies:
 
-in root directory `cscie33a_final`
+in root directory:
 
 `npm install`
 `pip install -r requirements.txt`
